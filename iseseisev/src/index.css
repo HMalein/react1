@@ -5,22 +5,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: beige;
-}
-button{
-  background-color: green;
-  color: lightgray;
-  cursor: grab;
-}
-button:hover{
-  height: 100px;
-  width: 100px;
-}
-p{
-  color: blue;
-}
-p:hover{
-  font-size: 24px;
 }
 
 code {
