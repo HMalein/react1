@@ -1,0 +1,49 @@
+.Main-link-list {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .Main-link {
+    color: rgb(66, 18, 18);
+    background-color: blue;
+    width: 300px;
+    height: 200px;
+    margin: 40%;
+    margin-top: 20px;  
+    padding:  20px 0;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .Main-link img {
+    width: 250px;
+    height: 160px;
+  }
+  
+  .Main-link p {
+    font-family: "Roboto";
+  }
+  .Main-link hr {
+      width: 50px;
+  }
+
+  .Main-link:hover {
+      transition: .5s;
+      transform: scale(1.1);
+      cursor: pointer;
+      box-shadow: black;
+  }
+
+  .Main-text {
+      text-align: center;
+      font-size: 30px;
+      margin-top: 100px;
+  }
+
+  .Rectangle {
+      height: 7px;
+      width: 60px;
+      background-color: brown;
+      margin: 50px auto;
+  }
+  

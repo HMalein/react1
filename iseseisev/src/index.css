@@ -13,18 +13,18 @@ code {
     monospace;
 }
 
-button{
+.nupp{
   background-color: green;
   color: lightgray;
   cursor: grab;
 }
-button:hover{
+.nupp:hover{
   height: 100px;
   width: 100px;
 }
-p{
+.tekst{
   color: blue;
 }
-p:hover{
+.tekst:hover{
   font-size: 24px;
 }
